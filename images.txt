@@ -1,1 +1,4 @@
 nginx:latest
+moenetwork/tieba-cloud-sign:latest
+ghcr.io/raywangqvq/bili_tool_web:latest
+ghcr.io/imsyy/splayer:latest
